@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:blue ;
+color: white (152, 238, 130);
+border-radius: 10px;
+}
+header img{
+ border-radius: 10px;
+  border:2px solid blue
+
+}
+h1{
+color: blueviolet;
+
+
+
+}
+footer p{
+background-color: pink;
+font-size: 20px;
+border: 2px pink;
+ 
+
+
+}
+ nav a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+border: 3px solid navy;
+border-radius: 10px;
+background-color: navy;
+}
+.popular{
+background-color: white;
+color: royalblue;
+
+}
+ ,p{
+background-color:chartreuse ;
+color: white (152, 238, 130);
+border-radius: 10px;
+
+
+
+}
+ .arrrr{
+background-color: orange;
+
+
+
+
+
+
+}
+img src{
+font-size: 20px;
+
+
+
+
+
+
+
+
+}
